@@ -1,2 +1,3 @@
 # hello-world
-This is a new one!
+The new day!
+2020/04/16
